@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [ِAhmad Tolba]
+# 👋 Hi, I'm Ahmad Tolba.
 
 🎯 Aspiring Data Analyst | Passionate about turning raw data into actionable insights.
 
